@@ -1,0 +1,47 @@
+.km_filter_xs_div_visible-xs {
+    min-width: 765px;
+}
+
+.km_filter_xs_div_header {
+    background-color: #222222;
+    padding-left: 268px;
+    padding-top: 3px;
+    font-size: 22px;
+    height: 40px;
+}
+
+.km-filter-i-fa-home {
+    margin-left: 180px;
+}
+
+.km_filter_xs_div_popur-windows{
+    background-color: chartreuse;
+    padding-left: 285px;
+    font-size: 18px;
+    height: 30px;
+    padding-top: 3px;
+}
+
+.km_filter_xs_div_general {
+    margin-top: 15px;
+    margin-left: 257px;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+
+.km-filter-div-span {
+    background-color: white;
+    font-size: 17px;
+    margin-left: -2px;
+    padding-top: 2px;
+}
+
+.km_filter_xs_div_bottom {
+    background-color: #222222;
+    margin-left: 320px;
+    margin-right: 236px;
+    padding-left: 10px;
+    font-size: 17px;
+    padding-top: 3px;
+    height: 30px;
+}

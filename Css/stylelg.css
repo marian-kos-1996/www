@@ -1,0 +1,94 @@
+body {
+    background-image: url(../img/lg/4.jpg);
+}
+
+
+a:hover {
+    text-decoration: none;
+}
+
+.km-filter-name-web {
+    margin-left: 325px;
+    margin-top: 15px;
+    font-size: 22px;    
+}
+
+.km-filte-a-1 {
+    margin: 0px 31px 0px 550px;
+    color: black;
+    background-color: crimson;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.km-filte-a-2 {
+   margin: 0px 30px;
+    color: black;
+    background-color: crimson;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.km-filte-a-3 {
+   margin: 0px 30px;
+    color: black;
+    background-color: crimson;
+    font-size: 25px;
+    font-family: cursive;
+}
+
+.km_filter_input_searsh {
+    padding-left: 1150px;
+}
+
+.km-filter-form {
+    margin-top: 15px;
+}
+
+.km-filte-a-btn {
+    height: 28px;
+}
+
+.km-filter-searsh-btn {
+    height: 28px;
+}
+
+
+.km-filte-img-span-1 {
+    padding: 0px 156px;
+    padding-top: 3px;
+    background-color: #423D65;
+    color: black;
+}
+
+.km-filte-img-span-2 {
+    padding: 0px 151px;
+    padding-top: 3px;
+    background-color: #BBB0B6;
+    color: black;
+}
+
+.km-filte-img-span-3 {
+    padding: 0 156px;
+    padding-top: 3px;
+    background-color: #90979D;
+    color: black;
+}
+
+.km-filter-perexid {
+    margin-top: 100px;
+    margin-left: 100px;
+    position: fixed;
+    background-color: #FF0000;
+    padding: 3px 12px;
+}
+
+.km-filter-ul-nav {
+    margin-left: 550px;
+    font-size: 25px;
+    background-color: #FFFFFF;
+}
+
+.km_filter_div_navbar {
+    margin-top: 900px;
+}
